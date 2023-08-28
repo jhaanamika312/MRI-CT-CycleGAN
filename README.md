@@ -6,7 +6,7 @@ This repository contains an implementation of a CycleGAN model to perform MRI to
 
 ## Overview
 
-The primary objective of this project is to demonstrate the capability of CycleGAN to translate MRI images into CT-like images. This translation can be useful for various medical imaging applications, allowing for data augmentation, domain adaptation, or generating synthetic CT-like images from available MRI scans.
+The primary objective of this project is to do MRI-CT translation and vice versa and  used CycleGAn to demonstrate that.  This translation can be useful for various medical imaging applications, allowing for data augmentation, domain adaptation, or generating synthetic CT-like images from available MRI scans.
 
 ## Requirements
 
