@@ -55,14 +55,18 @@ In order to assess the quality of the generated images, the following evaluation
 
 After generating the translated images, you can assess the quality of the results by examining the visualizations and evaluating the calculated metrics. Higher PSNR and SSIM values indicate a better quality of translated images.
 
-##with Training Dataset
-###ct to mri to ct
+## With Training Dataset
+
+### ct to mri to ct
+
 ![ct-mri-ct](https://github.com/jhaanamika312/MRI-CT-CycleGAN/assets/87661799/6bf63719-1a15-4e64-a4d2-45f80fc2cac0)
 
-###mri-ct-mri
+### mri-ct-mri
+
 ![mri-ct-mri](https://github.com/jhaanamika312/MRI-CT-CycleGAN/assets/87661799/40e968af-e2c6-4b67-a494-99bafe10b092)
 
-##MRI-CT-MRI on test dataset
+## MRI-CT-MRI on test dataset
+
 ![output](https://github.com/jhaanamika312/MRI-CT-CycleGAN/assets/87661799/65a774b6-12d2-4485-b792-373a9fa39de9)
 
 ## Credits
