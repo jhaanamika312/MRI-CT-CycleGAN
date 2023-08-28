@@ -45,7 +45,6 @@ I used the unpaired Dataset from Kaggle using this url https://www.kaggle.com/da
    ```
    python generate_images.py
    ```
-
 5. The generated images will be saved in the specified output directory.
 
 ## Evaluation
