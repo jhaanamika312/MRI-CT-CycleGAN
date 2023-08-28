@@ -1,8 +1,4 @@
-# MRI-CT-CycleGAN
 
-Certainly! Here's an example of what the README file for your MRI to CT CycleGAN project could look like:
-
----
 
 # MRI to CT CycleGAN
 
