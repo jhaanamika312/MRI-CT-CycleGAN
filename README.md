@@ -33,13 +33,13 @@ I used the unpaired Dataset from Kaggle using this url https://www.kaggle.com/da
 3. Train the CycleGAN model using the training data. You can use the provided training script by running:
 
    ```
-   python train.py
+   python cycleGAN_model.py
    ```
 
-4. After training, you can generate translated images from the trained model using the test dataset:
+4. After training, you can generate translated images from the trained model using the dataset:
 
    ```
-   python generate_images.py
+   python mri-ct.py
    ```
 5. The generated images will be saved in the specified output directory.
 
