@@ -69,6 +69,10 @@ After generating the translated images, you can assess the quality of the result
 
 ![output](https://github.com/jhaanamika312/MRI-CT-CycleGAN/assets/87661799/65a774b6-12d2-4485-b792-373a9fa39de9)
 
+## Loss plot of the model
+![loss_plot_100](https://github.com/jhaanamika312/MRI-CT-CycleGAN/assets/87661799/015b764f-deee-4f48-b62d-85b2039d7b47)
+
+
 ## Credits
 
 This project was inspired by the CycleGAN paper and utilizes various open-source libraries. Please refer to the relevant papers and repositories for more information.
