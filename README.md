@@ -77,6 +77,3 @@ After generating the translated images, you can assess the quality of the result
 
 This project was inspired by the CycleGAN paper and utilizes various open-source libraries. Please refer to the relevant papers and repositories for more information.
 
-
-
-Customize this README template to provide a clear and informative overview of your MRI to CT CycleGAN project. Include any additional information or sections that you find relevant to explain your code, methodology, and results.
